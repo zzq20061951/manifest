@@ -2,6 +2,6 @@
 <manifest>
   <remote fetch=".." name="gerrit" review="https://github.com/zzq20061951"/>
   <default remote="gerrit" revision="master"/>
-  <project name="Test_ZZ02" path="Test_test"/>
-  <project name="Test_ZZ" path="ZZQ"/>
+  <project name="MarsPlan" path="zzq20061951/MarsPlan"/>
+  <project name="EarthPlan" path="zzq20061951/EarthPlan"/>
 </manifest>
